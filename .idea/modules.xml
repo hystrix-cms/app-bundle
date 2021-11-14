@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/HystrixAppBundle.iml" filepath="$PROJECT_DIR$/.idea/HystrixAppBundle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HystrixFlat/.idea/HystrixFlat.iml" filepath="$PROJECT_DIR$/../HystrixFlat/.idea/HystrixFlat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HystrixFlatUi/.idea/HystrixFlatUi.iml" filepath="$PROJECT_DIR$/../HystrixFlatUi/.idea/HystrixFlatUi.iml" />
+    </modules>
+  </component>
+</project>
